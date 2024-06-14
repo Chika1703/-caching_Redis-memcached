@@ -12,10 +12,19 @@
 ---
 
 ### Задание 2
-1. [bash-скрипт](code/script.sh)
-2. [конфигурационный файл keepalived](code/keepalived.conf)
-3. * [ошибок нет айпи 1 машины](image/virt_ip_no_error.png)
-     * [ошибка из-за отсутствия index.html, айпи 2 машины](image/virt_ip_error.png)
-       * [ip MASTER machine](image/ip_1_machine(master).png)
-       * [ip BACKUP machine](image/ip_2_machine(backup).png)
+1. [status](png/1.jpg)
+
 ---
+
+### Задание 3
+1. [delete by ttl](png/2.jpg)
+   
+---
+
+### Задание 4
+1. [redis-cli](png/3.jpg)
+
+---
+
+### Задание 5
+1. [number](png/4.jpg)
